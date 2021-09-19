@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587977897647",
+    "project_id": "barber-application-haiqal",
+    "storage_bucket": "barber-application-haiqal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587977897647:android:913b3506776721c178c65a",
+        "android_client_info": {
+          "package_name": "com.example.barber_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587977897647-22510tovjm7nginjvaakrfkcr5m8meng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhDmrFwgPYW5XvKiRgFfQK87JVPFqBtF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587977897647-22510tovjm7nginjvaakrfkcr5m8meng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
